@@ -1,1 +1,3 @@
-College Alumni Website
+College Alumni Website 
+Made with Typescript 
+
